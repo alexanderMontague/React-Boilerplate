@@ -1,7 +1,7 @@
 # React-Boilerplate
 An easy transparent alternative to CRA. Easily spin up a react application in seconds.
 
-#React-Boilerplate
+# React-Boilerplate
 _An easy transparent alternative to CRA. Easily spin up a react application in seconds._
 
 -Use this React Boilerplate to start full fledged React web apps, quickly deploy a react page, jump right into a takehome interview assignment, or for just messing around!
